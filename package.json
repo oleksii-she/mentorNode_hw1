@@ -1,0 +1,28 @@
+{
+  "name": "mentornode_hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleksii-she/mentorNode_hw1.git"
+  },
+  "keywords": [],
+  "author": "Oleksii <vazerius@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksii-she/mentorNode_hw1/issues"
+  },
+  "homepage": "https://github.com/oleksii-she/mentorNode_hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "formidable": "^2.1.1"
+  }
+}
